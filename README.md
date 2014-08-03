@@ -14,7 +14,7 @@ The code
 99% of this code is for Igor Pro.
 
 The most developed and important procedures are in the 'User Procedures' folder.
-The most important procedures are listed here:
+These procedures are especially useful:
 
 ``Fringe Fit.ipf``: fits the interferometer data.
 
