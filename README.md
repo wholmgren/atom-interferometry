@@ -29,3 +29,6 @@ The most important procedures are listed here:
 ``PhysicalConstants.ipf``: eps0, masses, conversions, polarizabilities, etc
 
 ``LabConstants.ipf``: Not much at this point, but I recommend a common file for this type of data.
+
+``NIST ASD Lines grapher.ipf`` and ``NIST ASD grapher.ipf``: graph data from the NIST ASD.
+
