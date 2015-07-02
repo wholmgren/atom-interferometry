@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.19256.svg)](http://dx.doi.org/10.5281/zenodo.19256)
+
 Introduction
 ============
 The code contained in this repository was used during the course of my Ph.D. research in Prof. Alex Cronin's atom interferometry lab at the University of Arizona. The research culiminated in the following publications:
